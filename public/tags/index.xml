@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Benjamin Vatter</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Benjamin Vatter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>capacity-constraints</title>
+      <link>/tags/capacity-constraints/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 -0600</pubDate>
+      
+      <guid>/tags/capacity-constraints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>/tags/health/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 -0600</pubDate>
+      
+      <guid>/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vertical-markets</title>
+      <link>/tags/vertical-markets/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 -0600</pubDate>
+      
+      <guid>/tags/vertical-markets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>competition</title>
+      <link>/tags/competition/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
+      
+      <guid>/tags/competition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>history</title>
+      <link>/tags/history/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
+      
+      <guid>/tags/history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vertical-integration</title>
+      <link>/tags/vertical-integration/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
+      
+      <guid>/tags/vertical-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

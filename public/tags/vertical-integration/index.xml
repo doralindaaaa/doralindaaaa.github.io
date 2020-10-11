@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vertical-integration on Benjamin Vatter</title>
+    <link>/tags/vertical-integration/</link>
+    <description>Recent content in vertical-integration on Benjamin Vatter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/tags/vertical-integration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vertical Integration between Hospitals and Insurers</title>
+      <link>/project/vichile/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
+      
+      <guid>/project/vichile/</guid>
+      <description>&lt;p&gt;With &lt;a href=&#34;https://sites.google.com/site/ignaciocuesta/&#34; target=&#34;_blank&#34;&gt;Jose Ignacio Cuesta&lt;/a&gt; and &lt;a href=&#34;http://www.dii.uchile.cl/~cnoton/&#34; target=&#34;_blank&#34;&gt;Carlos Noton&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;An analysis of the welfare effects of vertical integration between insurers and hospitals&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
