@@ -5,15 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-## K. Hayashida (2019) title 
-<details markdown='1'><summary>Abstract</summary> This is the content inside the toggle.
+### K. Hayashida (2019) title 
+<details markdown='1'><summary>Abstract</summary> This is the content inside the toggle. </details> 
 
 
-## K. Hayashida (2019) title 
-<details markdown='1'><summary>Abstract</summary> This is the content inside the toggle.
+### K. Hayashida (2019) title 
+<details markdown='1'><summary>Abstract</summary> This is the content inside the toggle. </details> 
 
-## K. Hayashida (2019) title 
-<details markdown='1'><summary>Abstract</summary> This is the content inside the toggle.
+### K. Hayashida (2019) title 
+<details markdown='1'><summary>Abstract</summary> This is the content inside the toggle. </details> 
 
 
 <!-- {% if author.googlescholar %}
