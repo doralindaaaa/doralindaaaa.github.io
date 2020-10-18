@@ -6,14 +6,22 @@ author_profile: true
 ---
 
 ### K. Hayashida (2019) title 
-<details markdown='1'><summary>Abstract</summary> This is the content inside the toggle. </details> 
+<details>
+<summary>Summary text.</summary>
+<code style="white-space:nowrap;">Hello World, how is it going?</code>
+</details>
+
 
 
 ### K. Hayashida (2019) title 
-<details markdown='1'><summary>Abstract</summary> This is the content inside the toggle. </details> 
+<details markdown='1'>
+	<summary>Abstract</summary> 
+	This is the content inside the toggle. 
+</details> 
 
 ### K. Hayashida (2019) title 
-<details markdown='1'><summary>Abstract</summary> This is the content inside the toggle. </details> 
+<details markdown='1'><summary>Abstract</summary> This is the content inside the toggle. 
+</details> 
 
 
 <!-- {% if author.googlescholar %}
