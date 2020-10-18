@@ -34,3 +34,18 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
  -->
+
+
+
+
+## Publications in Japanese
+
+### K. Hayashida (2019) title 
+<details>
+<summary>Summary text.</summary>
+<code style="white-space:nowrap;">Hello World, how is it going?</code>
+</details>
+
+
+## General Articles
+
