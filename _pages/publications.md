@@ -5,6 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+## K. Hayashida (2019) title 
+<details markdown='1'><summary>Abstract</summary> This is the content inside the toggle.
+
+
+## K. Hayashida (2019) title 
+<details markdown='1'><summary>Abstract</summary> This is the content inside the toggle.
+
+## K. Hayashida (2019) title 
+<details markdown='1'><summary>Abstract</summary> This is the content inside the toggle.
+
+
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
